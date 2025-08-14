@@ -21,12 +21,12 @@
 
 | Login Screen | Main Dashboard |
 |--------------|----------------|
-| ![Login Screen](./screenshots/login-screen.png) | ![Dashboard](./screenshots/dashboard.jpg) |
+| ![Login Screen](./screenshot/login-screen.png) | ![Dashboard](./screenshot/dashboard.jpg) |
 | Secure authentication with default admin credentials | Comprehensive portfolio overview |
 
 | NAV Graph | AI Prediction |
 |-----------|---------------|
-| ![Graph View](./screenshots/nav-graph.jpg) | ![AI Prediction](./screenshots/ai-prediction.jpg) |
+| ![Graph View](./screenshot/nav-graph.jpg) | ![AI Prediction](./screenshot/a-prediction.jpg) |
 | Interactive price trends | AI recommendations |
 
 ## 🚀 Quick Start
@@ -39,3 +39,13 @@
 ```bash
 git clone https://github.com/Prajwaljadhav1/stock-portfolio-manager.git
 cd stock-portfolio-manager
+# Linux/Mac:
+chmod +x compile.sh run.sh
+./compile.sh
+./run.sh
+
+# Windows:
+compile.bat
+run.bat
+Username: admin
+Password: admin
