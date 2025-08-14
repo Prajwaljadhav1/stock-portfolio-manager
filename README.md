@@ -21,12 +21,12 @@
 
 | Login Screen | Main Dashboard |
 |--------------|----------------|
-| ![Login Screen](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
+| ![Login Screen](./screenshots/login-screen.png) | ![Dashboard](./screenshots/dashboard.jpg) |
 | Secure authentication with default admin credentials | Comprehensive portfolio overview |
 
 | NAV Graph | AI Prediction |
 |-----------|---------------|
-| ![Graph View](./screenshots/graph.png) | ![AI Prediction](./screenshots/ai-prediction.png) |
+| ![Graph View](./screenshots/nav-graph.jpg) | ![AI Prediction](./screenshots/ai-prediction.jpg) |
 | Interactive price trends | AI recommendations |
 
 ## 🚀 Quick Start
