@@ -21,14 +21,12 @@
 
 | Login Screen | Main Dashboard |
 |--------------|----------------|
-| ![Login Screen]([https://ibb.co/4wWQ7nFY) | ![Dashboard](https://ibb.co/j9dbPZRG) |
+| ![Login Screen](https://i.ibb.co/4wWQ7nF/login-screen.png) | ![Dashboard](https://i.ibb.co/j9dbPZG/dashboard.png) |
 | Secure authentication with default admin credentials | Comprehensive portfolio overview with stock details |
-
-
 
 | NAV Graph | AI Prediction |
 |-----------|---------------|
-| ![Graph View](https://ibb.co/35H60s33) | ![AI Prediction](https://ibb.co/4wWQ7nFY) |
+| ![Graph View](https://i.ibb.co/35H60s3/nav-graph.png) | ![AI Prediction](https://i.ibb.co/4wWQ7nF/ai-prediction.png) |
 | Interactive price trend visualization | AI-powered recommendations and risk assessment |
 
 ## 🚀 Quick Start
