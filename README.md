@@ -153,6 +153,3 @@ For persistent storage:
 - Comprehensive error handling and user input validation
 - Thread-safe operations for GUI updates
 
-## License
-
-This project is created for educational and interview demonstration purposes.
