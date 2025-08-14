@@ -26,7 +26,7 @@
 
 | NAV Graph | AI Prediction |
 |-----------|---------------|
-| ![Graph View](./screenshot/nav-graph.jpg) | ![AI Prediction](./screenshot/a-prediction.jpg) |
+| ![Graph View](./screenshot/nav-graph.jpg) | ![AI Prediction](./screenshot/ai-prediction.jpg) |
 | Interactive price trends | AI recommendations |
 
 ## 🚀 Quick Start
