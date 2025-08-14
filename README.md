@@ -21,29 +21,21 @@
 
 | Login Screen | Main Dashboard |
 |--------------|----------------|
-| ![Login Screen](https://i.ibb.co/4wWQ7nF/login-screen.png) | ![Dashboard](https://i.ibb.co/j9dbPZG/dashboard.png) |
-| Secure authentication with default admin credentials | Comprehensive portfolio overview with stock details |
+| ![Login Screen](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
+| Secure authentication with default admin credentials | Comprehensive portfolio overview |
 
 | NAV Graph | AI Prediction |
 |-----------|---------------|
-| ![Graph View](https://i.ibb.co/35H60s3/nav-graph.png) | ![AI Prediction](https://i.ibb.co/4wWQ7nF/ai-prediction.png) |
-| Interactive price trend visualization | AI-powered recommendations and risk assessment |
+| ![Graph View](./screenshots/graph.png) | ![AI Prediction](./screenshots/ai-prediction.png) |
+| Interactive price trends | AI recommendations |
 
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Java 8 or higher
-- JDK (Java Development Kit)
+- Java 8+
+- JDK installed
 
 ### Installation
 ```bash
-# Clone repository
 git clone https://github.com/Prajwaljadhav1/stock-portfolio-manager.git
 cd stock-portfolio-manager
-
-# Compile application (Linux/Mac)
-chmod +x compile.sh run.sh
-./compile.sh
-
-# Run application
-./run.sh
