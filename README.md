@@ -26,7 +26,7 @@
 ### 📦 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/stock-portfolio-manager.git
+git clone https://github.com/Prajwaljadhav1/stock-portfolio-manager.git
 cd stock-portfolio-manager
 
 # Make scripts executable (Linux/Mac)
@@ -118,12 +118,7 @@ The application generates realistic mock data for demonstration:
 
 ## Customization
 
-### Adding Real API Integration
-To integrate with real stock APIs:
-1. Replace mock data generation in `StockService`
-2. Implement actual Gemini AI API calls in `GeminiAIService`
-3. Add proper API key management
-4. Handle real-time data feeds
+
 
 ### Database Integration
 For persistent storage:
